@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11b78523-2c6f-4e23-bfaf-6cb540d3dffd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BankAccount/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BankAccount/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BankAccount/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BankAccount/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BankAccount/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BankAccount/BankAccount.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BankAccount/NewBankAccounts.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BankAccount/src/com/coen92/projects/bankaccountapp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BankAccount/src/com/coen92/projects/bankaccountapp/api/IBaseRate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BankAccount/src/com/coen92/projects/bankaccountapp/implement/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BankAccount/src/com/coen92/projects/bankaccountapp/implement/CheckingAcc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BankAccount/src/com/coen92/projects/bankaccountapp/implement/SavingsAcc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BankAccount/src/com/coen92/projects/bankaccountapp/utilities/CSV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EmailApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/coen92/projects/emailapp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/coen92/projects/emailapp/implement/Email.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student Database App/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student Database App/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student Database App/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student Database App/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student Database App/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student Database App/Student Database App.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student Database App/src/com/coen92/projects/studentdatabaseapp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Student Database App/src/com/coen92/projects/studentdatabaseapp/implement/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../maven-projects/DndCharGenerator/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../maven-projects/DndCharGenerator/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../maven-projects/DndCharGenerator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../maven-projects/DndCharGenerator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../maven-projects/DndCharGenerator/DndCharGenerator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../maven-projects/DndCharGenerator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../maven-projects/DndCharGenerator/src/main/java/com/coen92/projects/dndchargenerator/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../maven-projects/DndCharGenerator/src/main/java/com/coen92/projects/dndchargenerator/api/IDice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../maven-projects/DndCharGenerator/src/main/java/com/coen92/projects/dndchargenerator/front/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../maven-projects/DndCharGenerator/src/main/java/com/coen92/projects/dndchargenerator/implement/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../maven-projects/DndCharGenerator/src/main/java/com/coen92/projects/dndchargenerator/implement/general/Race.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../maven-projects/DndCharGenerator/src/main/java/com/coen92/projects/dndchargenerator/implement/mechanics/Dice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../maven-projects/DndCharGenerator/src/main/resources/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../maven-projects/DndCharGenerator/src/test/java/com/coen92/projects/dndchargenerator/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../r.dailyprogrammer/[EASY]/Challange077_Enumerating Morse code sequences/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../r.dailyprogrammer/[EASY]/Challange077_Enumerating Morse code sequences/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../r.dailyprogrammer/[EASY]/Challange077_Enumerating Morse code sequences/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../r.dailyprogrammer/[EASY]/Challange077_Enumerating Morse code sequences/Challange077_Enumerating Morse code sequences.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/JAVA Projects.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tutorial/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tutorial/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tutorial/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tutorial/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tutorial/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tutorial/JAVA Projects.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tutorial/out/production/JAVA Projects/com/piotr_kapica/vanila_jav/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tutorial/out/production/JAVA Projects/com/piotr_kapica/vanila_jav/Postac.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tutorial/src/com/piotr_kapica/vanila_jav/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../r.dailyprogrammer/[EASY]/Challange077_Enumerating Morse code sequences/src/com/dailyprogrammer/challenges/challenge077/implementation/Morse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../r.dailyprogrammer/[EASY]/Challange077_Enumerating Morse code sequences/src/com/dailyprogrammer/challenges/challenge077/implementation/Morse.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/coen92/projects/emailapp/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/coen92/projects/emailapp/implement/Email.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1734">
+              <caret line="102" column="1" lean-forward="true" selection-start-line="102" selection-start-column="1" selection-end-line="102" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\JAVA Projects\java-projects</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/coen92/projects/emailapp/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/coen92/projects/emailapp/implement/Email.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="EmailApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EmailApp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EmailApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EmailApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551723154951" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JAVA Projects\java-projects\EmailApp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coen92.projects.emailapp.Main" />
+      <module name="EmailApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coen92.projects.emailapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11b78523-2c6f-4e23-bfaf-6cb540d3dffd" name="Default Changelist" comment="" />
+      <created>1551715268083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551715268083</updated>
+      <workItem from="1551715271322" duration="5910000" />
+      <workItem from="1551722998645" duration="165000" />
+      <workItem from="1552235068597" duration="241000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6316000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20735608" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Messages" order="5" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Maven" order="0" />
+      <window_info anchor="right" id="Palette" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Run" order="9" weight="0.2625" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/coen92/projects/emailapp/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/coen92/projects/emailapp/implement/Email.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1734">
+          <caret line="102" column="1" lean-forward="true" selection-start-line="102" selection-start-column="1" selection-end-line="102" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
