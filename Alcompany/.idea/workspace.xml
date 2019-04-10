@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="955387e3-1569-4602-84e0-414d025797b6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/coen92/projects/alcoholcompany/api/IFillable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/coen92/projects/alcoholcompany/model/Bottle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/coen92/projects/alcoholcompany/model/Bottle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/coen92/projects/alcoholcompany/model/Crate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/coen92/projects/alcoholcompany/model/Crate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alcohol-company/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alcohol-company/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alcohol-company/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alcohol-company/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alcohol-company/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alcohol-company/alcohol-company.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alcohol-company/out/production/alcohol-company/com/coen92/projects/alcoholcompany/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alcohol-company/out/production/alcohol-company/com/coen92/projects/alcoholcompany/model/Bottle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alcohol-company/src/com/coen92/projects/alcoholcompany/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alcohol-company/src/com/coen92/projects/alcoholcompany/model/Bottle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../placarding/src/com/coen92/projects/placarding/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../placarding/src/com/coen92/projects/placarding/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../placarding/src/com/coen92/projects/placarding/model/Building.java" beforeDir="false" afterPath="$PROJECT_DIR$/../placarding/src/com/coen92/projects/placarding/model/Building.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,8 +28,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/coen92/projects/alcoholcompany/model/Bottle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="527">
+              <caret line="34" column="8" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -46,8 +37,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/coen92/projects/alcoholcompany/model/Crate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="391">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/coen92/projects/alcoholcompany/api/IFillable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -58,6 +58,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -68,8 +69,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/coen92/projects/alcoholcompany/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/coen92/projects/alcoholcompany/model/Crate.java" />
+        <option value="$PROJECT_DIR$/src/com/coen92/projects/alcoholcompany/api/IFillable.java" />
         <option value="$PROJECT_DIR$/src/com/coen92/projects/alcoholcompany/model/Bottle.java" />
+        <option value="$PROJECT_DIR$/src/com/coen92/projects/alcoholcompany/model/Crate.java" />
       </list>
     </option>
   </component>
@@ -85,6 +87,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -125,13 +128,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554813839767" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554893015380" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Placarding" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -180,17 +182,18 @@
       <updated>1554672100789</updated>
       <workItem from="1554672105804" duration="2218000" />
       <workItem from="1554813502344" duration="833000" />
+      <workItem from="1554886899705" duration="4124000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3051000" />
+    <option name="totallyTimeSpent" value="7175000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -240,17 +243,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/coen92/projects/alcoholcompany/api/IFillable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/coen92/projects/alcoholcompany/model/Bottle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="527">
+          <caret line="34" column="8" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/coen92/projects/alcoholcompany/model/Crate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>

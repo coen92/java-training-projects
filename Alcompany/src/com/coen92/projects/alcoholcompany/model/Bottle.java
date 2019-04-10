@@ -1,6 +1,8 @@
 package com.coen92.projects.alcoholcompany.model;
 
-public class Bottle {
+import com.coen92.projects.alcoholcompany.api.IFillable;
+
+public class Bottle implements IFillable {
 
     private double litre;
     private double capacity;
@@ -16,6 +18,13 @@ public class Bottle {
 
     public double getCapacity() {
         return capacity;
+    }
+
+    @Override
+    public boolean isFull() {
+        Bottle bottle = this;
+
+        return bottle.getLitre() == bottle.getCapacity();
     }
 
     boolean pour(double volume) {
@@ -59,4 +68,5 @@ public class Bottle {
         System.out.println("Litres in bottle: " + getLitre() +
                 "\nCapacity of bottle: " + getCapacity());
     }
+
 }
