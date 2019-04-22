@@ -46,7 +46,6 @@ public class Bottle implements IFillable {
     }
 
     public void transfer(double volume, Bottle whereTo) {
-
         double x = this.getLitre();
         double y = whereTo.getCapacity() - whereTo.getLitre();
 

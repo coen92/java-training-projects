@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d6fbc02-d79c-40cf-965c-626221c379b9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Alcompany/src/com/coen92/projects/alcoholcompany/model/Crate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Alcompany/src/com/coen92/projects/alcoholcompany/model/Crate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alcohol-company/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alcohol-company/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alcohol-company/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alcohol-company/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alcohol-company/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alcohol-company/alcohol-company.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alcohol-company/out/production/alcohol-company/com/coen92/projects/alcoholcompany/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alcohol-company/out/production/alcohol-company/com/coen92/projects/alcoholcompany/model/Bottle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alcohol-company/src/com/coen92/projects/alcoholcompany/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../alcohol-company/src/com/coen92/projects/alcoholcompany/model/Bottle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/coen92/projects/placarding/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/coen92/projects/placarding/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/coen92/projects/placarding/model/Building.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/coen92/projects/placarding/model/Building.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Alcompany/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Alcompany/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/coen92/projects/placarding/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+            <state relative-caret-position="323">
+              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -41,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/coen92/projects/placarding/model/Building.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+              <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -79,6 +67,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -108,13 +97,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554815003703" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555178925345" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -175,17 +163,18 @@
       <workItem from="1554813322681" duration="162000" />
       <workItem from="1554813684646" duration="55000" />
       <workItem from="1554814529058" duration="487000" />
+      <workItem from="1555178873988" duration="79000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1419000" />
+    <option name="totallyTimeSpent" value="1498000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26332623" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26599148" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -221,20 +210,20 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/coen92/projects/placarding/model/Building.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/coen92/projects/placarding/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        <state relative-caret-position="323">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/coen92/projects/placarding/model/Building.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
         </state>
       </provider>
     </entry>
