@@ -1,4 +1,4 @@
-package com.coen92.projects.alcoholcompany.model;
+package com.coen92.projects.alcoholcompany.model.cargo;
 
 import com.coen92.projects.alcoholcompany.api.IFillable;
 

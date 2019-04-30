@@ -1,6 +1,9 @@
 package com.coen92.projects.alcoholcompany;
 
-import com.coen92.projects.alcoholcompany.model.Bottle;
+import com.coen92.projects.alcoholcompany.model.cargo.Bottle;
+import com.coen92.projects.alcoholcompany.model.vehicles.Car;
+import com.coen92.projects.alcoholcompany.model.vehicles.Truck;
+import com.coen92.projects.alcoholcompany.model.vehicles.Vehicle;
 
 public class Main {
 
@@ -21,5 +24,13 @@ public class Main {
             System.out.println("\nBottle no. " + (i+1));
             bottles[i].showInfo();
         }
+
+        Vehicle car = new Car();
+        int carCapacity = car.getCrateCapacity();
+        System.out.println(carCapacity);
+
+        Vehicle truck = new Truck();
+        int truckCapacity = truck.getCrateCapacity();
+        System.out.println(truckCapacity);
     }
 }
